@@ -1,0 +1,2 @@
+	@Query(value="SELECT count(*) FROM USER",nativeQuery = true)
+	public int retrieveUsers();

@@ -1,0 +1,11 @@
+
+d	java:S125."<This block of commented-out lines of code should be removed.(ÎÕ“RMAJORZ
+CODE_SMELL
+’
+java:S1128"dRemove this unused import 'org.springframework.security.core.userdetails.UsernameNotFoundException'.(Í£Ö¶ùÿÿÿÿRMINORZ
+CODE_SMELL
+e
+java:S1128"7Remove this unused import 'tn.esprit.entities.Favoris'.(ÀˆÎÛøÿÿÿÿRMINORZ
+CODE_SMELL
+~	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êéƒòıÿÿÿÿRMINORZ
+CODE_SMELL

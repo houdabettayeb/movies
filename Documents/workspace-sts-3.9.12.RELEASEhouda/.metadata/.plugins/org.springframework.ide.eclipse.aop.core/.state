@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Testghazi"/>
+<aop-project name="DariProject"/>
+<aop-project name="TimesheetProject"/>
+<aop-project name="SDari-master"/>
+<aop-project name="Pidevtest"/>
+<aop-project name="houda2-3"/>
+</aop-reference-model>

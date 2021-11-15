@@ -1,0 +1,13 @@
+
+€	java:S116"XRename this field "MonthlyIncome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ò”¢RMINORZ
+CODE_SMELL
+z	java:S116"MRename this field "BK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡­Œ¬ùÿÿÿÿRMINORZ
+CODE_SMELL
+c
+java:S1128":Remove this unused import 'javax.persistence.CascadeType'.( ì¤ÊRMINORZ
+CODE_SMELL
+`
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;RMINORZ
+CODE_SMELL
+u	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹›âÚRMINORZ
+CODE_SMELL

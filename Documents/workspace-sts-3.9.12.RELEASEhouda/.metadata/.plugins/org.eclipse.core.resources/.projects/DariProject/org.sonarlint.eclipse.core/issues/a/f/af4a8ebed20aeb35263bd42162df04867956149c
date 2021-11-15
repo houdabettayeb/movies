@@ -1,0 +1,8 @@
+
+w	java:S116"ORename this field "Lieu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÖ¬þRMINORZ
+CODE_SMELL
+{	java:S116"SRename this field "Elevator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¾ƒŽRMINORZ
+CODE_SMELL
+h	java:S107Z"AConstructor has 9 parameters, which is greater than 7 authorized.(óÛ±
+RMAJORZ
+CODE_SMELL

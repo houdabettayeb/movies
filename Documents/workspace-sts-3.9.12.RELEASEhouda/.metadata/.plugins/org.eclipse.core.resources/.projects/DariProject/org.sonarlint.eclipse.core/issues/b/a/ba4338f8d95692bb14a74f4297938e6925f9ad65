@@ -1,0 +1,17 @@
+
+|	java:S116"ORename this field "Area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷øÛºøÿÿÿÿRMINORZ
+CODE_SMELL
+|	java:S116"ORename this field "Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¾ÍüûÿÿÿÿRMINORZ
+CODE_SMELL
+|	java:S116"ORename this field "Stat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é£¯©ÿÿÿÿÿRMINORZ
+CODE_SMELL
+|	java:S116"TRename this field "Ascenseur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦®Õ«RMINORZ
+CODE_SMELL
+~	java:S116 "QRename this field "Heater" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İšËçüÿÿÿÿRMINORZ
+CODE_SMELL
+~	java:S116""QRename this field "Garden" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÊŞÁøÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S116#"RRename this field "Terasse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³²•ÍıÿÿÿÿRMINORZ
+CODE_SMELL
+p	java:S107"BConstructor has 16 parameters, which is greater than 7 authorized.(±êËúÿÿÿÿRMAJORZ
+CODE_SMELL

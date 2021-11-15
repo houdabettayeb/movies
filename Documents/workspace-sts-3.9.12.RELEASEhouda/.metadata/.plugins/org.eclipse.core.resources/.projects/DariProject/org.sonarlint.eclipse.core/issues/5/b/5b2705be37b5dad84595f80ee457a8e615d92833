@@ -1,0 +1,18 @@
+
+t
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(œâ–°ùÿÿÿÿRCRITICALZVULNERABILITY
+i	java:S125"<This block of commented-out lines of code should be removed.(Õ âÙúÿÿÿÿRMAJORZ
+CODE_SMELL
+v	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¾ƒ’RMINORZ
+CODE_SMELL
+T
+java:S1168"+Return an empty collection instead of null.(¥¹ïRMAJORZ
+CODE_SMELL
+d	java:S125 "<This block of commented-out lines of code should be removed.(ˆÕ»»RMAJORZ
+CODE_SMELL
+…
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæëRMINORZ
+CODE_SMELL
+–
+java:S1128"hRemove this unused import 'org.springframework.boot.autoconfigure.neo4j.Neo4jProperties.Authentication'.(é‘¡­øÿÿÿÿRMINORZ
+CODE_SMELL

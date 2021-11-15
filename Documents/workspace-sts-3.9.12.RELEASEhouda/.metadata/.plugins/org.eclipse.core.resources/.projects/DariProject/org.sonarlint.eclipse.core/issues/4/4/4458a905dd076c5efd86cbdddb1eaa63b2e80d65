@@ -1,0 +1,13 @@
+
+w	java:S116	"PRename this field "Login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÝÓRMINORZ
+CODE_SMELL
+ƒ	java:S116"[Rename this field "DescriptionBlock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³÷äžRMINORZ
+CODE_SMELL
+h
+java:S11610":Add the "@Override" annotation above this method signature(ÿÒïªùÿÿÿÿRMAJORZ
+CODE_SMELL
+c
+java:S11614":Add the "@Override" annotation above this method signature(Íù¾¢RMAJORZ
+CODE_SMELL
+i	java:S125B"<This block of commented-out lines of code should be removed.(Ô¹¥˜øÿÿÿÿRMAJORZ
+CODE_SMELL

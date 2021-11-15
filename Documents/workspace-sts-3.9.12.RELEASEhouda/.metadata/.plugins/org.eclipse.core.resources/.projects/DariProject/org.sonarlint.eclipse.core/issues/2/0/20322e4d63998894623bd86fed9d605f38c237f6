@@ -1,0 +1,113 @@
+
+_
+java:S3416)"1Update this logger to use "UserServiceImp.class".(ÃÆãšÿÿÿÿÿRMINORZ
+CODE_SMELL
+i	java:S125&"<This block of commented-out lines of code should be removed.(ó‰­×şÿÿÿÿRMAJORZ
+CODE_SMELL
+_
+java:S1135>"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+i
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(¼­öERMAJORZ
+CODE_SMELL
+_
+java:S1135F"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135W"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+i
+java:S3457]"AFormat specifiers should be used instead of string concatenation.(¿€¨6RMAJORZ
+CODE_SMELL
+_
+java:S1135_"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+o
+java:S3457d"AFormat specifiers should be used instead of string concatenation.(‹Ï¸ÆşÿÿÿÿRMAJORZ
+CODE_SMELL
+_
+java:S1135f"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135v"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+j
+java:S3457|"AFormat specifiers should be used instead of string concatenation.(’­ÜÙRMAJORZ
+CODE_SMELL
+_
+java:S1135~"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+p
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(‘Ä€¡ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135…"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+p
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(ŠĞ’¹ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135–"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+k
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ä…€¸RMAJORZ
+CODE_SMELL
+`
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135¨"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+„
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(èôÏùüÿÿÿÿRCRITICALZ
+CODE_SMELL
+j	java:S125·"<This block of commented-out lines of code should be removed.(—ÛóäûÿÿÿÿRMAJORZ
+CODE_SMELL
+b	java:S106¼"9Replace this use of System.out or System.err by a logger.(ë°ĞşRMAJORZ
+CODE_SMELL
+`
+java:S1135ˆ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+e	java:S125š"<This block of commented-out lines of code should be removed.(´ú±şRMAJORZ
+CODE_SMELL
+e	java:S125³"<This block of commented-out lines of code should be removed.(ïşôÀRMAJORZ
+CODE_SMELL
+`
+java:S1135Û"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135à"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135å"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+`
+java:S1135ê"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+e
+java:S1128"7Remove this unused import 'tn.esprit.entities.Favoris'.(ÀˆÎÛøÿÿÿÿRMINORZ
+CODE_SMELL
+q
+java:S1128"CRemove this unused import 'tn.esprit.repository.FavorisRepository'.(ñà…ùÿÿÿÿRMINORZ
+CODE_SMELL
+‹
+java:S14886"]Immediately return this expression instead of assigning it to the temporary variable "users".(Ã‘¡™şÿÿÿÿRMINORZ
+CODE_SMELL
+‹
+java:S1488ó"\Immediately return this expression instead of assigning it to the temporary variable "cust".(Å…£ øÿÿÿÿRMINORZ
+CODE_SMELL
+‡
+java:S1488ú"]Immediately return this expression instead of assigning it to the temporary variable "agent".( ˆë‡RMINORZ
+CODE_SMELL
+‡
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "admin".(Ç¦ÒâRMINORZ
+CODE_SMELL
+_
+java:S2629]"7Use the built-in formatting to construct this argument.(¿€¨6RMAJORZ
+CODE_SMELL
+`
+java:S2629|"7Use the built-in formatting to construct this argument.(’­ÜÙRMAJORZ
+CODE_SMELL
+f
+java:S2629”"7Use the built-in formatting to construct this argument.(ŠĞ’¹ıÿÿÿÿRMAJORZ
+CODE_SMELL

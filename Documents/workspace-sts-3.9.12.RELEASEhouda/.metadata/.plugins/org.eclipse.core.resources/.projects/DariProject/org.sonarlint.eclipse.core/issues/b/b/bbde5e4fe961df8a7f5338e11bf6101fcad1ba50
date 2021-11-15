@@ -1,0 +1,62 @@
+
+o
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(êö‡–RCRITICALZVULNERABILITY
+d	java:S125%"<This block of commented-out lines of code should be removed.(ºãÉ¼RMAJORZ
+CODE_SMELL
+v	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ˆ¶èRMINORZ
+CODE_SMELL
+t
+java:S4684?"@Replace this persistent entity with a simple POJO or DTO object.(’ó¯âıÿÿÿÿRCRITICALZVULNERABILITY
+n
+java:S4684N"@Replace this persistent entity with a simple POJO or DTO object.(áŸë\RCRITICALZVULNERABILITY
+{	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒìÀÖûÿÿÿÿRMINORZ
+CODE_SMELL
+o
+java:S4684k"@Replace this persistent entity with a simple POJO or DTO object.(¿ºRCRITICALZVULNERABILITY
+t
+java:S4684r"@Replace this persistent entity with a simple POJO or DTO object.(‰“ôÈÿÿÿÿÿRCRITICALZVULNERABILITY
+v	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ü›ªRMINORZ
+CODE_SMELL
+p
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(‹–Ú›RCRITICALZVULNERABILITY
+u
+java:S4684•"@Replace this persistent entity with a simple POJO or DTO object.(¶œ±¹ÿÿÿÿÿRCRITICALZVULNERABILITY
+p
+java:S4684Æ"@Replace this persistent entity with a simple POJO or DTO object.(¥ö½ƒRCRITICALZVULNERABILITY
+e	java:S125Û"<This block of commented-out lines of code should be removed.(øüÎëRMAJORZ
+CODE_SMELL
+d	java:S125í"<This block of commented-out lines of code should be removed.(É”Ï6RMAJORZ
+CODE_SMELL
+Y
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒRMINORZ
+CODE_SMELL
+T
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼üRMINORZ
+CODE_SMELL
+n
+java:S1128	"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿRMINORZ
+CODE_SMELL
+t
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿRMINORZ
+CODE_SMELL
+Z
+java:S1128"1Remove this unused import 'io.jsonwebtoken.Jwts'.(íğœ±RMINORZ
+CODE_SMELL
+g
+java:S1128"?Remove this unused import 'io.jsonwebtoken.SignatureAlgorithm'.(ç±«gRMINORZ
+CODE_SMELL
+ˆ
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦Ì’ÑüÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S14882"\Immediately return this expression instead of assigning it to the temporary variable "list".(¤ØŠRMINORZ
+CODE_SMELL
+…
+java:S1488W"\Immediately return this expression instead of assigning it to the temporary variable "list".(ˆ‚ÔšRMINORZ
+CODE_SMELL
+Š
+java:S1488z"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñ÷ËïıÿÿÿÿRMINORZ
+CODE_SMELL
+‹
+java:S1488²"\Immediately return this expression instead of assigning it to the temporary variable "list".(†ÕôıÿÿÿÿRMINORZ
+CODE_SMELL
